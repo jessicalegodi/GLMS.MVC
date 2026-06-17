@@ -42,7 +42,8 @@ docker-compose up --build
 ```
 
 ### 3. Access Applications
-  on the PDF
+
+  All documentation and screenshots are included in the /docs folder.
 
 ## API Endpoints
 
